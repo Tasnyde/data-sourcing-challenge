@@ -77,9 +77,11 @@ The DataFrame is exported to a CSV file without the index (3 points).
 
 ## Built With
 
-Visual Code Basic
-GitHub Copilot
-ChatGPT
+Visual Code Basic.
+
+GitHub Copilot.
+
+ChatGPT.
 
 ## Contributing
 
