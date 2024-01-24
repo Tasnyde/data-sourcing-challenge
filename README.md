@@ -90,7 +90,8 @@ ChatGPT.
 ## Authors
 
 * **edX Boot Camps** - *Initial work* 
-* **Todd Snyder** - *final work* 
+* **Todd Snyder** - *Finnal work*
+* **Lebuso Philly - *Reviewed final work
 
 ## License
 
